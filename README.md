@@ -1,4 +1,6 @@
 # NOTICE: **Consider this project dead.**
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDaryle1K%2FRobinhood.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDaryle1K%2FRobinhood?ref=badge_shield)
+
 
 I continued to keep this documentation up to date and it's now complete locally and until recently, I was happy to answer questions that wouldn't potentially expose a private, internal API, unreleased feature, or sensitive 3rd party data. But certain ones here have moved from friendly open source devs to angry, weird stalkers and have even used this documentation maliciously to steal assets and hijack accounts. Sadly, closing the issue tracker was only a temporary fix. Shuttering the project will be more permanent.
 
@@ -110,3 +112,7 @@ To get the next page of results, just use the `next` URL.
 ## Semi-Pagination
 
 Some data is returned as a list of `results` as if they were paginate but the API doesn't supply us with `previous` or `next` keys.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDaryle1K%2FRobinhood.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDaryle1K%2FRobinhood?ref=badge_large)
